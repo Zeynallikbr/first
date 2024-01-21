@@ -1,4 +1,11 @@
 salam men ekber.
+<<<<<<< HEAD
 menim meksedim 3 ay erzinde bir naliyet elede edib proqramist olmaqdi.
  v einsallah ikinci kursun ikincoi semestrinda islemek isteyorem 
 
+=======
+menim meksedim 3 ay erzinde bir naliyet elede edib proqramist olmaqdi 
+azerbaycanda ilk qazanmaq istediyim mass 1000 + du 
+
+ve cox yerde islemek isteyirem
+>>>>>>> main
